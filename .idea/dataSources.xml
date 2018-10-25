@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="TESTCB" uuid="a27b1668-b785-4826-9ad7-a99632170577">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://195.146.74.90:5432/cashbackbotbase</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PRODUCTIONCB" uuid="cf124e7b-c351-4392-a0c5-a63c29bd3a39">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://admin.btcback.me:5432/cashbackbotbase</jdbc-url>
+    </data-source>
+  </component>
+</project>
